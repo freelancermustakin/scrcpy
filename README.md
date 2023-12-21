@@ -1,6 +1,8 @@
 # scrcpy
 This application mirrors Android devices connected via #USB.
 
+![screenshot](.assets/screenshot-scrcpy-i80_phonePCw.PNG)
+![screenshot](.assets/screenshot-scrcpy-i80_phone.PNG)
 ![screenshot](.assets/screenshot-scrcpy-808.jpg)
 
 It focuses on:
